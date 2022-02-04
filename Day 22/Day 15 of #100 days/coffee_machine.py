@@ -40,14 +40,12 @@ def is_resource_sufficient(order_ingredients):
             return False
     return True
 
-
 def process_coins():
     """Returns the total calculated from coins inserted."""
     print("Please insert coins.")
     total = int(input("how many 50s?: ")) * 50
     total += int(input("how many 10s?: ")) * 10
     return total
-
 
 def is_transaction_successful(money_received, drink_cost):
     """Return True when the payment is accepted, or False if money is insufficient."""
