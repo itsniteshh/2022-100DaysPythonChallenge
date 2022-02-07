@@ -53,5 +53,17 @@ solved deubugging exercises
 ## 26-01-2022 -- #Day 22 of 100 days of coding -- Day 14 from Dr. Angela's bootcamp
 Built higher lower program
 
+## 27-01-2022 -- #Day 23 of 100 days of coding -- Day 15 from Dr. Angela's bootcamp
+Built coffee machine program using func
+
+## 28-01-2022 -- #Day 24 of 100 days of coding -- Day 16 from Dr. Angela's bootcamp
+Built coffee machine program using class
+
+## 29-01-2022 -- #Day 25 of 100 days of coding -- Day 17 from Dr. Angela's bootcamp
+Built   question bank
+
+## 30-01-2022 -- #Day 26 of 100 days of coding -- Day 18 from Dr. Angela's bootcamp
+Building spirograph program
+
 
 
