@@ -5,7 +5,7 @@ def prime_checker(number):
     if number > 1:
         for num in range(2, number):
             if number % num == 0:
-                #the number is prime, triggers false if it is not prime num
+                #the number is not prime, triggers true if it is prime num
                 is_prime = False
 
         if is_prime:
